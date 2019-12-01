@@ -1,6 +1,6 @@
 # Gojek Auto Register & Save Token 
 
-# install
+# INSTALL
 
   $pkg install curl
 
@@ -10,7 +10,7 @@
 
   $git clone https://github.com/altohadi86/gofood
 
-# use 
+# USE
 
 $cd gofood
 
